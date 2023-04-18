@@ -1,2 +1,2 @@
-# alena
-Files for my GitHub intro page.
+# Hey!
+This is my personal GitHub page.
